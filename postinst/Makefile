@@ -1,3 +1,4 @@
+iphone:clang:11.2:11.2
 include $(THEOS)/makefiles/common.mk
 
 TOOL_NAME = postinst prerm
